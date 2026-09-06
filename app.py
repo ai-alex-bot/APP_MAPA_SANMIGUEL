@@ -6,6 +6,8 @@ import json
 from shapely.geometry import Point, shape
 import os
 
+
+print("reproducir amargo amor - chacaolon")
 # --- 1. CONFIGURACIÓN DE PÁGINA ---
 st.set_page_config(page_title="Estrategia Territorial San Miguel", layout="wide", page_icon="🛡️")
 

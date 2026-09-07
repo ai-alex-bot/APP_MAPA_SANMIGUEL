@@ -19,7 +19,7 @@ Este proyecto utiliza [`uv`](https://github.com/astral-sh/uv) como gestor de dep
 
 ### 1. Clonar el repositorio
 ```bash
-git clone [https://github.com/TU-USUARIO/APP_MAPA_SANMIGUEL.git](https://github.com/TU-USUARIO/APP_MAPA_SANMIGUEL.git)
+git clone https://github.com/ai-alex-bot/APP_MAPA_SANMIGUEL.git
 cd APP_MAPA_SANMIGUEL
 ```
 
